@@ -1,0 +1,46 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+ $gray: #F4F4F4;
+
+ body {
+   background: $gray; // Using this variable
+ }
+
+h1 {
+  background-color: #69bbf5;
+  color: white;
+  left: 50%;
+  text-align: center
+
+}
+ .banner {
+   background: red;
+   h2 {
+     font-size: 50px;
+     font-weight: normal
+   }
+ }
+.your_question {
+background-color: #f0eeda
+}
+h2 {
+  font-size: 20px;
+  text-align: center
+}
+
+.name {
+  font-style: italic;
+
+}
+
+.coach {
+font-style: italic;
+}
+.answer {
+  background-color: #cee5f5;
+}
+.question {
+  font-style: bold
+}
